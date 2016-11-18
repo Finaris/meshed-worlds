@@ -19,6 +19,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.asp
+*.aspx
 
 # Unity3D generated meta files
 *.pidb.meta
