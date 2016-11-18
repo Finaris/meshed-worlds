@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: e41d9dd86cd2733459023f2861f8bde8
+timeCreated: 1474207294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: //RootNode
+    100006: MeshedReconstruction3
+    100008: MeshedReconstruction3_MeshPart0
+    100010: MeshedReconstruction3_MeshPart1
+    100012: MeshedReconstruction3_MeshPart10
+    100014: MeshedReconstruction3_MeshPart11
+    100016: MeshedReconstruction3_MeshPart12
+    100018: MeshedReconstruction3_MeshPart13
+    100020: MeshedReconstruction3_MeshPart14
+    100022: MeshedReconstruction3_MeshPart15
+    100024: MeshedReconstruction3_MeshPart16
+    100026: MeshedReconstruction3_MeshPart17
+    100028: MeshedReconstruction3_MeshPart18
+    100030: MeshedReconstruction3_MeshPart19
+    100032: MeshedReconstruction3_MeshPart2
+    100034: MeshedReconstruction3_MeshPart20
+    100036: MeshedReconstruction3_MeshPart21
+    100038: MeshedReconstruction3_MeshPart22
+    100040: MeshedReconstruction3_MeshPart23
+    100042: MeshedReconstruction3_MeshPart24
+    100044: MeshedReconstruction3_MeshPart3
+    100046: MeshedReconstruction3_MeshPart4
+    100048: MeshedReconstruction3_MeshPart5
+    100050: MeshedReconstruction3_MeshPart6
+    100052: MeshedReconstruction3_MeshPart7
+    100054: MeshedReconstruction3_MeshPart8
+    100056: MeshedReconstruction3_MeshPart9
+    400000: Camera
+    400002: Lamp
+    400004: MeshedReconstruction3
+    400006: //RootNode
+    400008: MeshedReconstruction3_MeshPart0
+    400010: MeshedReconstruction3_MeshPart1
+    400012: MeshedReconstruction3_MeshPart10
+    400014: MeshedReconstruction3_MeshPart11
+    400016: MeshedReconstruction3_MeshPart12
+    400018: MeshedReconstruction3_MeshPart13
+    400020: MeshedReconstruction3_MeshPart14
+    400022: MeshedReconstruction3_MeshPart15
+    400024: MeshedReconstruction3_MeshPart16
+    400026: MeshedReconstruction3_MeshPart17
+    400028: MeshedReconstruction3_MeshPart18
+    400030: MeshedReconstruction3_MeshPart19
+    400032: MeshedReconstruction3_MeshPart2
+    400034: MeshedReconstruction3_MeshPart20
+    400036: MeshedReconstruction3_MeshPart21
+    400038: MeshedReconstruction3_MeshPart22
+    400040: MeshedReconstruction3_MeshPart23
+    400042: MeshedReconstruction3_MeshPart24
+    400044: MeshedReconstruction3_MeshPart3
+    400046: MeshedReconstruction3_MeshPart4
+    400048: MeshedReconstruction3_MeshPart5
+    400050: MeshedReconstruction3_MeshPart6
+    400052: MeshedReconstruction3_MeshPart7
+    400054: MeshedReconstruction3_MeshPart8
+    400056: MeshedReconstruction3_MeshPart9
+    2300000: MeshedReconstruction3_MeshPart0
+    2300002: MeshedReconstruction3_MeshPart1
+    2300004: MeshedReconstruction3_MeshPart10
+    2300006: MeshedReconstruction3_MeshPart11
+    2300008: MeshedReconstruction3_MeshPart12
+    2300010: MeshedReconstruction3_MeshPart13
+    2300012: MeshedReconstruction3_MeshPart14
+    2300014: MeshedReconstruction3_MeshPart15
+    2300016: MeshedReconstruction3_MeshPart16
+    2300018: MeshedReconstruction3_MeshPart17
+    2300020: MeshedReconstruction3_MeshPart18
+    2300022: MeshedReconstruction3_MeshPart19
+    2300024: MeshedReconstruction3_MeshPart2
+    2300026: MeshedReconstruction3_MeshPart20
+    2300028: MeshedReconstruction3_MeshPart21
+    2300030: MeshedReconstruction3_MeshPart22
+    2300032: MeshedReconstruction3_MeshPart23
+    2300034: MeshedReconstruction3_MeshPart24
+    2300036: MeshedReconstruction3_MeshPart3
+    2300038: MeshedReconstruction3_MeshPart4
+    2300040: MeshedReconstruction3_MeshPart5
+    2300042: MeshedReconstruction3_MeshPart6
+    2300044: MeshedReconstruction3_MeshPart7
+    2300046: MeshedReconstruction3_MeshPart8
+    2300048: MeshedReconstruction3_MeshPart9
+    3300000: MeshedReconstruction3_MeshPart0
+    3300002: MeshedReconstruction3_MeshPart1
+    3300004: MeshedReconstruction3_MeshPart10
+    3300006: MeshedReconstruction3_MeshPart11
+    3300008: MeshedReconstruction3_MeshPart12
+    3300010: MeshedReconstruction3_MeshPart13
+    3300012: MeshedReconstruction3_MeshPart14
+    3300014: MeshedReconstruction3_MeshPart15
+    3300016: MeshedReconstruction3_MeshPart16
+    3300018: MeshedReconstruction3_MeshPart17
+    3300020: MeshedReconstruction3_MeshPart18
+    3300022: MeshedReconstruction3_MeshPart19
+    3300024: MeshedReconstruction3_MeshPart2
+    3300026: MeshedReconstruction3_MeshPart20
+    3300028: MeshedReconstruction3_MeshPart21
+    3300030: MeshedReconstruction3_MeshPart22
+    3300032: MeshedReconstruction3_MeshPart23
+    3300034: MeshedReconstruction3_MeshPart24
+    3300036: MeshedReconstruction3_MeshPart3
+    3300038: MeshedReconstruction3_MeshPart4
+    3300040: MeshedReconstruction3_MeshPart5
+    3300042: MeshedReconstruction3_MeshPart6
+    3300044: MeshedReconstruction3_MeshPart7
+    3300046: MeshedReconstruction3_MeshPart8
+    3300048: MeshedReconstruction3_MeshPart9
+    4300000: MeshedReconstruction3_MeshPart0
+    4300002: MeshedReconstruction3_MeshPart1
+    4300004: MeshedReconstruction3_MeshPart2
+    4300006: MeshedReconstruction3_MeshPart3
+    4300008: MeshedReconstruction3_MeshPart4
+    4300010: MeshedReconstruction3_MeshPart5
+    4300012: MeshedReconstruction3_MeshPart6
+    4300014: MeshedReconstruction3_MeshPart7
+    4300016: MeshedReconstruction3_MeshPart8
+    4300018: MeshedReconstruction3_MeshPart9
+    4300020: MeshedReconstruction3_MeshPart10
+    4300022: MeshedReconstruction3_MeshPart11
+    4300024: MeshedReconstruction3_MeshPart12
+    4300026: MeshedReconstruction3_MeshPart13
+    4300028: MeshedReconstruction3_MeshPart14
+    4300030: MeshedReconstruction3_MeshPart15
+    4300032: MeshedReconstruction3_MeshPart16
+    4300034: MeshedReconstruction3_MeshPart17
+    4300036: MeshedReconstruction3_MeshPart18
+    4300038: MeshedReconstruction3_MeshPart19
+    4300040: MeshedReconstruction3_MeshPart20
+    4300042: MeshedReconstruction3_MeshPart21
+    4300044: MeshedReconstruction3_MeshPart22
+    4300046: MeshedReconstruction3_MeshPart23
+    4300048: MeshedReconstruction3_MeshPart24
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
